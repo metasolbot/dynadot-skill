@@ -13,6 +13,13 @@ description: >
 
 Manage domains via the Dynadot API v3. All API calls use JSON format.
 
+**Links:**
+- Website: https://www.dynadot.com
+- API Docs: https://www.dynadot.com/domain/api-commands
+- API Control Panel: https://www.dynadot.com/account/domain/setting/api.html
+- Sandbox: https://api-sandbox.dynadot.com
+- Help: https://www.dynadot.com/community/help
+
 ## Setup
 
 Store API key at `~/.credentials/dynadot.txt`:
